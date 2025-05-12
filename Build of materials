@@ -1,0 +1,10 @@
+## Meditation Amp v1.0 - Solo Mode  
+| Part                  | Quantity | Notes                          |
+|-----------------------|----------|--------------------------------|
+| Arduino Nano          | 1        | Clone OK                      |
+| Copper Mesh (5mm)     | 1        | 20cm strip                    |
+| Quartz Chips (10mm)   | 6-8      | Raw or polished               |
+| 555 Timer IC          | 1        | For DIY oscillator            |
+| 1MΩ Resistor          | 1        | Safety limit for scalp        |
+| 3.7V LiPo Battery     | 1        | 500mAh, USB-C rechargeable    |
+| Conductive Gel        | 1 tube   | EEG-grade                     |
