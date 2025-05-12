@@ -1,0 +1,13 @@
+// Meditation Amp v1.0 - Solo Mode  
+// Generates 7.83Hz Schumann resonance via PWM (D9)  
+
+void setup() {  
+  pinMode(9, OUTPUT);  // PWM output to copper crown  
+}  
+
+void loop() {  
+  analogWrite(9, 128);  // 50% duty cycle  
+  delay(64);            // ~7.83Hz pulse  
+  analogWrite(9, 0);  
+  delay(64);  
+}  
